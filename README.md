@@ -1,4 +1,4 @@
-# Ruby: Bob
+# Ruby: Bob 
 
 Bob is a lackadaisical teenager. In conversation, his responses are very limited.
 
@@ -51,6 +51,3 @@ This exercise is from the [Ruby][ruby] track on [Exercism][exercism]
 
 [exercism]: http://exercism.io
 [ruby]: http://exercism.io/languages/ruby
-
-
-
